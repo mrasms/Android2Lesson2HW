@@ -5,8 +5,9 @@
       <map>
         <entry key="..\:/Users/Admin/Downloads/HWAndroid2Lesson2/app/src/main/res/drawable/default_dot.xml" value="0.4466666666666667" />
         <entry key="..\:/Users/Admin/Downloads/HWAndroid2Lesson2/app/src/main/res/drawable/selected_dot.xml" value="0.4466666666666667" />
-        <entry key="..\:/Users/Admin/Downloads/HWAndroid2Lesson2/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/Admin/Downloads/HWAndroid2Lesson2/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Admin/Downloads/HWAndroid2Lesson2/app/src/main/res/layout/fragment_on_board.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/Downloads/HWAndroid2Lesson2/app/src/main/res/layout/holder.xml" value="0.16666666666666666" />
       </map>
     </option>
   </component>
