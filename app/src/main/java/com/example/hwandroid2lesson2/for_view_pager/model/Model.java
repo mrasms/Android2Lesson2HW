@@ -1,4 +1,4 @@
-package com.example.hwandroid2lesson2.fragments.model;
+package com.example.hwandroid2lesson2.for_view_pager.model;
 
 public class Model {
 

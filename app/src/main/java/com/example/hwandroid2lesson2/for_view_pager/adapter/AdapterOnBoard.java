@@ -1,14 +1,13 @@
-package com.example.hwandroid2lesson2.fragments.adapter;
+package com.example.hwandroid2lesson2.for_view_pager.adapter;
 
 import android.view.LayoutInflater;
-import android.view.View;
 import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.hwandroid2lesson2.databinding.HolderBinding;
-import com.example.hwandroid2lesson2.fragments.model.Model;
+import com.example.hwandroid2lesson2.for_view_pager.model.Model;
 
 import java.util.ArrayList;
 

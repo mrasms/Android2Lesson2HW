@@ -7,8 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.example.hwandroid2lesson2.databinding.ActivityMainBinding;
-import com.example.hwandroid2lesson2.fragments.adapter.AdapterOnBoard;
-import com.example.hwandroid2lesson2.fragments.model.Model;
+import com.example.hwandroid2lesson2.for_view_pager.adapter.AdapterOnBoard;
+import com.example.hwandroid2lesson2.for_view_pager.model.Model;
 
 import java.util.ArrayList;
 
@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private void setupScrollContent() {
         //Не пришло в голову нужное слово, которое описывает действия метода
         // Метод заставляет работать самодельный "Dot's indicator" , а также
-        // меняет текст кнопки про попадании на последний элемент
+        // меняет текст кнопки при попадании на последний элемент
         binding.pager.registerOnPageChangeCallback(new ViewPager2.OnPageChangeCallback() {
             @Override
             public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
